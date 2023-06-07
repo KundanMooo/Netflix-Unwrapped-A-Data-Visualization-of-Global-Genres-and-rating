@@ -3,11 +3,11 @@ Overall, this project provides a comprehensive understanding of Netflix's global
 
 # Insight
 
-### 1. Go where the viewers are: 
+### 1. Atteract viewers: 
 Focus on collecting and delivering material that appeals to the top nations where Netflix is popular. For example, collaborating with local production studios in India to make and market Hindi-language films and TV series to cater to the big Indian audience.
 
-### 2. Keep the movie magic alive: 
+### 2. Keep movies: 
 Continuously add intriguing and popular movies to the Netflix collection. For instance, gaining exclusive rights to highly anticipated movies like "Avengers: Endgame" helps attract movie aficionados and build excitement.
 
-### 3.
-Drama and humour grab the spotlight: Invest on acquiring appealing drama and comedy material. For example, teaming with famous writer-directors to make a binge-worthy drama series like "Stranger Things" or a highly praised comedy like "The Marvellous Mrs. Maisel."
+### 3.Drama and humour most popular genre: 
+Invest on acquiring appealing drama and comedy material. For example, teaming with famous writer-directors to make a binge-worthy drama series like "Stranger Things" or a highly praised comedy like "The Marvellous Mrs. Maisel."
