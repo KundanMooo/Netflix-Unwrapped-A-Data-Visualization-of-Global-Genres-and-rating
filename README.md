@@ -1,5 +1,6 @@
 # Netflix-Unwrapped-A-Data-Visualization-of-Global-Genres-and-rating
 Overall, this project provides a comprehensive understanding of Netflix's global impact on the world of entertainment, highlighting the most popular genres, countries, and rating of shows on the platform.
+![Dashboard 1](https://github.com/KundanMooo/Netflix-Unwrapped-A-Data-Visualization-of-Global-Genres-and-rating/assets/130728166/fa2efe00-c81e-4cba-971d-dcc29a95d1c5)
 
 # Insight
 
