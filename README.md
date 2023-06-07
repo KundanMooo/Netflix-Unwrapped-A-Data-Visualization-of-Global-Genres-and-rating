@@ -3,7 +3,7 @@ Overall, this project provides a comprehensive understanding of Netflix's global
 
 # Insight
 
-### 1. Atteract viewers: 
+### 1. Attract viewers: 
 Focus on collecting and delivering material that appeals to the top nations where Netflix is popular. For example, collaborating with local production studios in India to make and market Hindi-language films and TV series to cater to the big Indian audience.
 
 ### 2. Keep movies: 
@@ -11,3 +11,11 @@ Continuously add intriguing and popular movies to the Netflix collection. For in
 
 ### 3.Drama and humour most popular genre: 
 Invest on acquiring appealing drama and comedy material. For example, teaming with famous writer-directors to make a binge-worthy drama series like "Stranger Things" or a highly praised comedy like "The Marvellous Mrs. Maisel."
+
+### 4. Team up with award-winning filmmakers: 
+Foster collaborations with award-winning directors to generate high-quality and renowned content. For instance, teaming with an Oscar-winning filmmaker like Bong Joon-ho to develop a thought-provoking and visually gorgeous picture only for Netflix.
+
+### 5. Focus on trends: 
+Stay current on viewers' shifting tastes and modify content approach accordingly. For example, noting the rising popularity of real crime documentaries, crafting a riveting and well-researched series like "Making a Murderer" to catch the audience's interest.
+
+### These examples highlight how the actions produced from the Netflix data insights may be used to enrich the content offers, engage viewers, and make strategic choices in the streaming sector.
